@@ -68,3 +68,4 @@ export default function EmojiSticker({ imageSize, stickerSource }) {
         </PanGestureHandler>
     );
 }
+d
